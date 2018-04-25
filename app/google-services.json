@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "154923009700",
+    "firebase_url": "https://wiichat-99342.firebaseio.com",
+    "project_id": "wiichat-99342",
+    "storage_bucket": "wiichat-99342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154923009700:android:51315dcafe8284aa",
+        "android_client_info": {
+          "package_name": "com.prime.optimus.wiichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154923009700-4cmf8t3me56g73i007j3ja5vo5m4ed66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prime.optimus.wiichat",
+            "certificate_hash": "7cefae60a408b1695c0888a2eaf870307078f659"
+          }
+        },
+        {
+          "client_id": "154923009700-2pduu0difl7dul2jhcvoa8g45qqf5o6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSreuu4-Hvt5YOYGzEfQpQPLuCK8sYz0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154923009700-2pduu0difl7dul2jhcvoa8g45qqf5o6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
